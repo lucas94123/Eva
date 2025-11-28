@@ -1,0 +1,226 @@
+11/21/2025 4:05:04 PM,Lock-in:1.397E-12,Capacitance 1:1.17280    ,Capacitance 2:0.002111
+11/21/2025 4:05:07 PM,Lock-in:1.370E-12,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:05:10 PM,Lock-in:1.407E-12,Capacitance 1:1.1728     ,Capacitance 2:0.002111
+11/21/2025 4:05:13 PM,Lock-in:1.395E-12,Capacitance 1:1.1728     ,Capacitance 2:0.002113
+11/21/2025 4:05:16 PM,Lock-in:1.392E-12,Capacitance 1:1.17285    ,Capacitance 2:0.002114
+11/21/2025 4:05:19 PM,Lock-in:1.353E-12,Capacitance 1:1.17299    ,Capacitance 2:0.002114
+11/21/2025 4:05:22 PM,Lock-in:1.400E-12,Capacitance 1:1.17291    ,Capacitance 2:0.002113
+11/21/2025 4:05:25 PM,Lock-in:1.403E-12,Capacitance 1:1.17289    ,Capacitance 2:0.002114
+11/21/2025 4:05:28 PM,Lock-in:1.366E-12,Capacitance 1:1.1728     ,Capacitance 2:0.002116
+11/21/2025 4:05:31 PM,Lock-in:1.410E-12,Capacitance 1:1.17283    ,Capacitance 2:0.002113
+11/21/2025 4:05:34 PM,Lock-in:1.389E-12,Capacitance 1:1.17295    ,Capacitance 2:0.002116
+11/21/2025 4:05:37 PM,Lock-in:9.391E-13,Capacitance 1:,Capacitance 2:0.002114
+11/21/2025 4:05:40 PM,Lock-in:1.287E-12,Capacitance 1:0.96358    ,Capacitance 2:0.002116
+11/21/2025 4:05:43 PM,Lock-in:1.295E-12,Capacitance 1:0.9639     ,Capacitance 2:0.002114
+11/21/2025 4:05:46 PM,Lock-in:9.193E-13,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002113
+11/21/2025 4:05:49 PM,Lock-in:9.769E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:05:52 PM,Lock-in:1.215E-12,Capacitance 1:0.86188    ,Capacitance 2:0.002116
+11/21/2025 4:05:55 PM,Lock-in:1.254E-12,Capacitance 1:0.858      ,Capacitance 2:0.002116
+11/21/2025 4:05:58 PM,Lock-in:1.417E-12,Capacitance 1:,Capacitance 2:0.002114
+11/21/2025 4:06:01 PM,Lock-in:1.236E-12,Capacitance 1:0.80691    ,Capacitance 2:0.002116
+11/21/2025 4:06:04 PM,Lock-in:1.191E-12,Capacitance 1:0.8070     ,Capacitance 2:0.002117
+11/21/2025 4:06:07 PM,Lock-in:1.430E-12,Capacitance 1:,Capacitance 2:0.0021123
+11/21/2025 4:06:10 PM,Lock-in:1.159E-12,Capacitance 1:0.7718     ,Capacitance 2:0.002117
+11/21/2025 4:06:13 PM,Lock-in:1.166E-12,Capacitance 1:0.7718     ,Capacitance 2:0.002116
+11/21/2025 4:06:16 PM,Lock-in:1.319E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.0021177
+11/21/2025 4:06:20 PM,Lock-in:1.142E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:06:22 PM,Lock-in:1.138E-12,Capacitance 1:0.7470     ,Capacitance 2:0.0021177
+11/21/2025 4:06:25 PM,Lock-in:1.173E-12,Capacitance 1:0.7482     ,Capacitance 2:0.002119
+11/21/2025 4:06:28 PM,Lock-in:8.120E-13,Capacitance 1:,Capacitance 2:0.002113
+11/21/2025 4:06:31 PM,Lock-in:1.132E-12,Capacitance 1:0.72843    ,Capacitance 2:0.002117
+11/21/2025 4:06:34 PM,Lock-in:1.143E-12,Capacitance 1:0.72856    ,Capacitance 2:0.002117
+11/21/2025 4:06:37 PM,Lock-in:1.134E-12,Capacitance 1:0.72848    ,Capacitance 2:0.002118
+11/21/2025 4:06:40 PM,Lock-in:1.527E-12,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:06:43 PM,Lock-in:1.135E-12,Capacitance 1:0.71428    ,Capacitance 2:0.002117
+11/21/2025 4:06:46 PM,Lock-in:1.135E-12,Capacitance 1:0.71413    ,Capacitance 2:0.002117
+11/21/2025 4:06:49 PM,Lock-in:1.150E-12,Capacitance 1:0.713      ,Capacitance 2:0.002117
+11/21/2025 4:06:52 PM,Lock-in:1.478E-12,Capacitance 1:,Capacitance 2:0.002113
+11/21/2025 4:06:55 PM,Lock-in:1.118E-12,Capacitance 1:0.7026     ,Capacitance 2:0.002119
+11/21/2025 4:06:58 PM,Lock-in:1.113E-12,Capacitance 1:0.70259    ,Capacitance 2:0.002115
+11/21/2025 4:07:01 PM,Lock-in:1.445E-12,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:07:04 PM,Lock-in:1.134E-12,Capacitance 1:0.6931     ,Capacitance 2:0.002117
+11/21/2025 4:07:07 PM,Lock-in:1.119E-12,Capacitance 1:0.69316    ,Capacitance 2:0.002116
+11/21/2025 4:07:10 PM,Lock-in:1.136E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002117
+11/21/2025 4:07:13 PM,Lock-in:1.208E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:07:16 PM,Lock-in:1.119E-12,Capacitance 1:0.68510    ,Capacitance 2:0.002116
+11/21/2025 4:07:19 PM,Lock-in:1.126E-12,Capacitance 1:0.6851     ,Capacitance 2:0.002114
+11/21/2025 4:07:22 PM,Lock-in:1.120E-12,Capacitance 1:0.68514    ,Capacitance 2:0.002114
+11/21/2025 4:07:25 PM,Lock-in:8.568E-13,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002114
+11/21/2025 4:07:29 PM,Lock-in:1.129E-12,Capacitance 1:,Capacitance 2:0.002114
+11/21/2025 4:07:31 PM,Lock-in:1.149E-12,Capacitance 1:0.67851    ,Capacitance 2:0.002113
+11/21/2025 4:07:34 PM,Lock-in:1.126E-12,Capacitance 1:0.6784     ,Capacitance 2:0.002113
+11/21/2025 4:07:37 PM,Lock-in:9.359E-13,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002113
+11/21/2025 4:07:41 PM,Lock-in:1.118E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:07:43 PM,Lock-in:1.132E-12,Capacitance 1:0.67256    ,Capacitance 2:0.0021136
+11/21/2025 4:07:46 PM,Lock-in:1.117E-12,Capacitance 1:0.6725     ,Capacitance 2:0.002113
+11/21/2025 4:07:49 PM,Lock-in:1.119E-12,Capacitance 1:0.6726     ,Capacitance 2:0.002110
+11/21/2025 4:07:52 PM,Lock-in:1.120E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002113
+11/21/2025 4:07:55 PM,Lock-in:7.658E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:07:58 PM,Lock-in:1.112E-12,Capacitance 1:0.66747    ,Capacitance 2:0.002111
+11/21/2025 4:08:01 PM,Lock-in:1.119E-12,Capacitance 1:0.66752    ,Capacitance 2:0.002111
+11/21/2025 4:08:04 PM,Lock-in:1.105E-12,Capacitance 1:0.66747    ,Capacitance 2:0.002110
+11/21/2025 4:08:07 PM,Lock-in:1.213E-12,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:08:10 PM,Lock-in:1.113E-12,Capacitance 1:0.66292    ,Capacitance 2:0.002110
+11/21/2025 4:08:13 PM,Lock-in:1.111E-12,Capacitance 1:0.6629     ,Capacitance 2:0.002108
+11/21/2025 4:08:16 PM,Lock-in:1.116E-12,Capacitance 1:0.66292    ,Capacitance 2:0.002110
+11/21/2025 4:08:19 PM,Lock-in:1.126E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002110
+11/21/2025 4:08:22 PM,Lock-in:9.117E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:08:25 PM,Lock-in:1.094E-12,Capacitance 1:0.6591     ,Capacitance 2:0.002109
+11/21/2025 4:08:28 PM,Lock-in:1.105E-12,Capacitance 1:0.65904    ,Capacitance 2:0.002108
+11/21/2025 4:08:31 PM,Lock-in:1.102E-12,Capacitance 1:0.6590     ,Capacitance 2:0.002107
+11/21/2025 4:08:34 PM,Lock-in:1.102E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002107
+11/21/2025 4:08:37 PM,Lock-in:1.090E-12,Capacitance 1:,Capacitance 2:0.002110
+11/21/2025 4:08:40 PM,Lock-in:1.095E-12,Capacitance 1:0.65552    ,Capacitance 2:0.002106
+11/21/2025 4:08:43 PM,Lock-in:1.091E-12,Capacitance 1:0.6555     ,Capacitance 2:0.002105
+11/21/2025 4:08:46 PM,Lock-in:1.103E-12,Capacitance 1:0.6554     ,Capacitance 2:0.002107
+11/21/2025 4:08:49 PM,Lock-in:1.309E-12,Capacitance 1:,Capacitance 2:0.002114
+11/21/2025 4:08:52 PM,Lock-in:1.117E-12,Capacitance 1:0.65226    ,Capacitance 2:0.002108
+11/21/2025 4:08:55 PM,Lock-in:1.077E-12,Capacitance 1:0.6524     ,Capacitance 2:0.002107
+11/21/2025 4:08:58 PM,Lock-in:1.073E-12,Capacitance 1:0.6524     ,Capacitance 2:0.002107
+11/21/2025 4:09:01 PM,Lock-in:1.081E-12,Capacitance 1:0.6523     ,Capacitance 2:0.002104
+11/21/2025 4:09:04 PM,Lock-in:1.079E-12,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:09:07 PM,Lock-in:1.079E-12,Capacitance 1:0.64954    ,Capacitance 2:0.002105
+11/21/2025 4:09:10 PM,Lock-in:1.094E-12,Capacitance 1:0.64949    ,Capacitance 2:0.002105
+11/21/2025 4:09:13 PM,Lock-in:1.073E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002106
+11/21/2025 4:09:16 PM,Lock-in:8.834E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:09:19 PM,Lock-in:1.103E-12,Capacitance 1:0.64686    ,Capacitance 2:0.002107
+11/21/2025 4:09:22 PM,Lock-in:1.066E-12,Capacitance 1:0.6470     ,Capacitance 2:0.002108
+11/21/2025 4:09:25 PM,Lock-in:1.104E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002105
+11/21/2025 4:09:28 PM,Lock-in:1.003E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:09:31 PM,Lock-in:1.089E-12,Capacitance 1:0.6445     ,Capacitance 2:0.002107
+11/21/2025 4:09:34 PM,Lock-in:1.100E-12,Capacitance 1:0.6445     ,Capacitance 2:0.002107
+11/21/2025 4:09:37 PM,Lock-in:1.106E-12,Capacitance 1:0.6442     ,Capacitance 2:0.002108
+11/21/2025 4:09:40 PM,Lock-in:8.359E-13,Capacitance 1:,Capacitance 2:0.002113
+11/21/2025 4:09:43 PM,Lock-in:1.071E-12,Capacitance 1:0.64225    ,Capacitance 2:0.002108
+11/21/2025 4:09:46 PM,Lock-in:1.088E-12,Capacitance 1:0.6424     ,Capacitance 2:0.002110
+11/21/2025 4:09:49 PM,Lock-in:1.094E-12,Capacitance 1:0.6425     ,Capacitance 2:0.002109
+11/21/2025 4:09:52 PM,Lock-in:9.643E-13,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:09:55 PM,Lock-in:1.061E-12,Capacitance 1:0.6404     ,Capacitance 2:0.002111
+11/21/2025 4:09:58 PM,Lock-in:1.082E-12,Capacitance 1:0.64039    ,Capacitance 2:0.002108
+11/21/2025 4:10:01 PM,Lock-in:1.089E-12,Capacitance 1:0.6402     ,Capacitance 2:0.002113
+11/21/2025 4:10:04 PM,Lock-in:8.059E-13,Capacitance 1:,Capacitance 2:0.002110
+11/21/2025 4:10:07 PM,Lock-in:1.072E-12,Capacitance 1:0.6385     ,Capacitance 2:0.002109
+11/21/2025 4:10:10 PM,Lock-in:1.062E-12,Capacitance 1:0.63853    ,Capacitance 2:0.002111
+11/21/2025 4:10:13 PM,Lock-in:1.088E-12,Capacitance 1:0.63849    ,Capacitance 2:0.002111
+11/21/2025 4:10:16 PM,Lock-in:9.338E-13,Capacitance 1:,Capacitance 2:0.002113
+11/21/2025 4:10:19 PM,Lock-in:1.083E-12,Capacitance 1:0.63669    ,Capacitance 2:0.002114
+11/21/2025 4:10:22 PM,Lock-in:1.090E-12,Capacitance 1:0.63682    ,Capacitance 2:0.002113
+11/21/2025 4:10:25 PM,Lock-in:1.042E-12,Capacitance 1:0.63673    ,Capacitance 2:0.002113
+11/21/2025 4:10:28 PM,Lock-in:1.118E-12,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:10:31 PM,Lock-in:1.070E-12,Capacitance 1:0.6351     ,Capacitance 2:0.002113
+11/21/2025 4:10:34 PM,Lock-in:1.061E-12,Capacitance 1:0.63510    ,Capacitance 2:0.002114
+11/21/2025 4:10:37 PM,Lock-in:1.055E-12,Capacitance 1:0.635      ,Capacitance 2:0.0021136
+11/21/2025 4:10:40 PM,Lock-in:1.366E-12,Capacitance 1:,Capacitance 2:0.002110
+11/21/2025 4:10:43 PM,Lock-in:1.067E-12,Capacitance 1:0.63365    ,Capacitance 2:0.002114
+11/21/2025 4:10:46 PM,Lock-in:1.069E-12,Capacitance 1:0.6336     ,Capacitance 2:0.002116
+11/21/2025 4:10:49 PM,Lock-in:1.035E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002114
+11/21/2025 4:10:53 PM,Lock-in:1.048E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:10:55 PM,Lock-in:1.055E-12,Capacitance 1:0.6322     ,Capacitance 2:0.002117
+11/21/2025 4:10:58 PM,Lock-in:1.046E-12,Capacitance 1:0.6322     ,Capacitance 2:0.002117
+11/21/2025 4:11:01 PM,Lock-in:1.063E-12,Capacitance 1:0.63227    ,Capacitance 2:0.002116
+11/21/2025 4:11:04 PM,Lock-in:1.408E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002117
+11/21/2025 4:11:07 PM,Lock-in:1.253E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:11:10 PM,Lock-in:1.064E-12,Capacitance 1:0.63081    ,Capacitance 2:0.002117
+11/21/2025 4:11:13 PM,Lock-in:1.076E-12,Capacitance 1:0.63094    ,Capacitance 2:0.002117
+11/21/2025 4:11:16 PM,Lock-in:1.069E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002117
+11/21/2025 4:11:19 PM,Lock-in:7.533E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:11:22 PM,Lock-in:1.079E-12,Capacitance 1:0.6295     ,Capacitance 2:0.002119
+11/21/2025 4:11:25 PM,Lock-in:1.058E-12,Capacitance 1:0.62957    ,Capacitance 2:0.002116
+11/21/2025 4:11:28 PM,Lock-in:1.064E-12,Capacitance 1:0.62965    ,Capacitance 2:0.002117
+11/21/2025 4:11:31 PM,Lock-in:1.043E-12,Capacitance 1:,Capacitance 2:0.002112
+11/21/2025 4:11:34 PM,Lock-in:1.080E-12,Capacitance 1:0.62842    ,Capacitance 2:0.002117
+11/21/2025 4:11:37 PM,Lock-in:1.088E-12,Capacitance 1:0.62847    ,Capacitance 2:0.002116
+11/21/2025 4:11:40 PM,Lock-in:1.080E-12,Capacitance 1:0.6283     ,Capacitance 2:0.002117
+11/21/2025 4:11:43 PM,Lock-in:8.634E-13,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002116
+11/21/2025 4:11:46 PM,Lock-in:1.045E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:11:49 PM,Lock-in:1.096E-12,Capacitance 1:0.62725    ,Capacitance 2:0.002116
+11/21/2025 4:11:52 PM,Lock-in:1.077E-12,Capacitance 1:0.62732    ,Capacitance 2:0.002116
+11/21/2025 4:11:55 PM,Lock-in:7.783E-13,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:11:58 PM,Lock-in:1.070E-12,Capacitance 1:0.62634    ,Capacitance 2:0.002117
+11/21/2025 4:12:01 PM,Lock-in:1.054E-12,Capacitance 1:0.6262     ,Capacitance 2:0.002114
+11/21/2025 4:12:04 PM,Lock-in:1.060E-12,Capacitance 1:0.6262     ,Capacitance 2:0.002116
+11/21/2025 4:12:07 PM,Lock-in:1.146E-12,Capacitance 1:,Capacitance 2:0.0021156
+11/21/2025 4:12:10 PM,Lock-in:1.036E-12,Capacitance 1:0.62514    ,Capacitance 2:0.002114
+11/21/2025 4:12:13 PM,Lock-in:1.024E-12,Capacitance 1:0.6251     ,Capacitance 2:0.002116
+11/21/2025 4:12:16 PM,Lock-in:1.060E-12,Capacitance 1:0.62512    ,Capacitance 2:0.002113
+11/21/2025 4:12:19 PM,Lock-in:1.058E-12,Capacitance 1:0.62515    ,Capacitance 2:0.002111
+11/21/2025 4:12:22 PM,Lock-in:1.079E-12,Capacitance 1:,Capacitance 2:0.002113
+11/21/2025 4:12:25 PM,Lock-in:1.059E-12,Capacitance 1:0.62424    ,Capacitance 2:0.002113
+11/21/2025 4:12:28 PM,Lock-in:1.077E-12,Capacitance 1:0.6242     ,Capacitance 2:0.002113
+11/21/2025 4:12:31 PM,Lock-in:1.045E-12,Capacitance 1:0.62425    ,Capacitance 2:0.002111
+11/21/2025 4:12:34 PM,Lock-in:1.327E-12,Capacitance 1:,Capacitance 2:0.002112
+11/21/2025 4:12:37 PM,Lock-in:1.026E-12,Capacitance 1:0.62326    ,Capacitance 2:0.002113
+11/21/2025 4:12:40 PM,Lock-in:1.027E-12,Capacitance 1:0.6233     ,Capacitance 2:0.002111
+11/21/2025 4:12:43 PM,Lock-in:1.062E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002111
+11/21/2025 4:12:46 PM,Lock-in:1.059E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:12:49 PM,Lock-in:1.048E-12,Capacitance 1:0.62245    ,Capacitance 2:0.002110
+11/21/2025 4:12:52 PM,Lock-in:1.060E-12,Capacitance 1:0.62238    ,Capacitance 2:0.002110
+11/21/2025 4:12:55 PM,Lock-in:1.060E-12,Capacitance 1:0.62247    ,Capacitance 2:0.002110
+11/21/2025 4:12:58 PM,Lock-in:1.058E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002108
+11/21/2025 4:13:01 PM,Lock-in:8.145E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:13:04 PM,Lock-in:1.023E-12,Capacitance 1:0.62158    ,Capacitance 2:0.002108
+11/21/2025 4:13:07 PM,Lock-in:1.032E-12,Capacitance 1:0.6216     ,Capacitance 2:0.002108
+11/21/2025 4:13:10 PM,Lock-in:1.040E-12,Capacitance 1:0.6208     ,Capacitance 2:0.002108
+11/21/2025 4:13:13 PM,Lock-in:1.259E-12,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:13:16 PM,Lock-in:1.038E-12,Capacitance 1:0.6207     ,Capacitance 2:0.002107
+11/21/2025 4:13:19 PM,Lock-in:1.061E-12,Capacitance 1:0.62078    ,Capacitance 2:0.002107
+11/21/2025 4:13:22 PM,Lock-in:1.042E-12,Capacitance 1:0.6207     ,Capacitance 2:0.0021074
+11/21/2025 4:13:25 PM,Lock-in:7.569E-13,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:13:28 PM,Lock-in:9.966E-13,Capacitance 1:0.61998    ,Capacitance 2:0.002105
+11/21/2025 4:13:31 PM,Lock-in:1.047E-12,Capacitance 1:0.6199     ,Capacitance 2:0.002107
+11/21/2025 4:13:34 PM,Lock-in:1.039E-12,Capacitance 1:0.61995    ,Capacitance 2:0.002108
+11/21/2025 4:13:37 PM,Lock-in:9.836E-13,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002107
+11/21/2025 4:13:40 PM,Lock-in:1.027E-12,Capacitance 1:,Capacitance 2:
+11/21/2025 4:13:43 PM,Lock-in:1.060E-12,Capacitance 1:0.61925    ,Capacitance 2:0.002105
+11/21/2025 4:13:46 PM,Lock-in:1.027E-12,Capacitance 1:0.61922    ,Capacitance 2:0.002105
+11/21/2025 4:13:49 PM,Lock-in:1.058E-12,Capacitance 1:0.6192     ,Capacitance 2:0.002105
+11/21/2025 4:13:52 PM,Lock-in:1.094E-12,Capacitance 1:,Capacitance 2:0.002110
+11/21/2025 4:13:55 PM,Lock-in:1.017E-12,Capacitance 1:0.6185     ,Capacitance 2:0.002106
+11/21/2025 4:13:58 PM,Lock-in:1.038E-12,Capacitance 1:0.61842    ,Capacitance 2:0.002106
+11/21/2025 4:14:01 PM,Lock-in:1.039E-12,Capacitance 1:0.61848    ,Capacitance 2:0.002105
+11/21/2025 4:14:04 PM,Lock-in:7.151E-13,Capacitance 1:,Capacitance 2:0.002111
+11/21/2025 4:14:07 PM,Lock-in:1.053E-12,Capacitance 1:0.6179     ,Capacitance 2:0.002107
+11/21/2025 4:14:10 PM,Lock-in:1.055E-12,Capacitance 1:0.61793    ,Capacitance 2:0.002107
+11/21/2025 4:14:13 PM,Lock-in:1.023E-12,Capacitance 1:0.6179     ,Capacitance 2:0.002107
+11/21/2025 4:14:16 PM,Lock-in:1.182E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.0021072
+11/21/2025 4:14:19 PM,Lock-in:1.054E-12,Capacitance 1:,Capacitance 2:0.002107
+11/21/2025 4:14:22 PM,Lock-in:1.013E-12,Capacitance 1:0.6172     ,Capacitance 2:0.002107
+11/21/2025 4:14:25 PM,Lock-in:1.032E-12,Capacitance 1:0.6171     ,Capacitance 2:0.002108
+11/21/2025 4:14:28 PM,Lock-in:8.067E-13,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.002107
+11/21/2025 4:14:31 PM,Lock-in:7.675E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:14:34 PM,Lock-in:1.049E-12,Capacitance 1:0.61663    ,Capacitance 2:0.002108
+11/21/2025 4:14:37 PM,Lock-in:1.030E-12,Capacitance 1:0.61656    ,Capacitance 2:0.002110
+11/21/2025 4:14:40 PM,Lock-in:1.023E-12,Capacitance 1:0.6166     ,Capacitance 2:0.002108
+11/21/2025 4:14:43 PM,Lock-in:1.027E-12,Capacitance 1:EXCESS NOISE
+,Capacitance 2:0.0021124
+11/21/2025 4:14:46 PM,Lock-in:7.083E-13,Capacitance 1:,Capacitance 2:
+11/21/2025 4:14:49 PM,Lock-in:1.030E-12,Capacitance 1:0.61598    ,Capacitance 2:0.002110
+11/21/2025 4:14:52 PM,Lock-in:1.067E-12,Capacitance 1:0.6160     ,Capacitance 2:0.002110
+11/21/2025 4:14:55 PM,Lock-in:1.035E-12,Capacitance 1:0.61596    ,Capacitance 2:0.002111
+11/21/2025 4:14:58 PM,Lock-in:1.042E-12,Capacitance 1:0.61605    ,Capacitance 2:0.002113
+11/21/2025 4:15:01 PM,Lock-in:1.028E-12,Capacitance 1:0.61614    ,Capacitance 2:0.002113
+11/21/2025 4:15:04 PM,Lock-in:1.038E-12,Capacitance 1:0.6161     ,Capacitance 2:0.002111
+11/21/2025 4:15:07 PM,Lock-in:1.043E-12,Capacitance 1:0.6161     ,Capacitance 2:0.002111
+11/21/2025 4:15:10 PM,Lock-in:1.006E-12,Capacitance 1:0.6160     ,Capacitance 2:0.002111
+11/21/2025 4:15:13 PM,Lock-in:1.016E-12,Capacitance 1:0.6160     ,Capacitance 2:0.002111
+11/21/2025 4:15:16 PM,Lock-in:1.011E-12,Capacitance 1:0.61605    ,Capacitance 2:0.002111
+11/21/2025 4:15:19 PM,Lock-in:1.032E-12,Capacitance 1:0.61595    ,Capacitance 2:0.002113
