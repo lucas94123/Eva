@@ -36,10 +36,10 @@ name_without_ext = os.path.splitext(base)[0]
 
 x = np.array(cap1)
 y = np.array(lockin)
-
+y1 = savgol_filter(y, 10, 3)
 
 dx = x[2:] - x[:-2]
-dy = y[2:] - y[:-2]
+dy = y1[2:] - y1[:-2]
 
 mask = dx != 0  
 
@@ -49,7 +49,32 @@ slopes = dy[mask] / dx[mask]
 
 x_mid = x_mid[mask]
 
+plt.figure()
+plt.plot(t, lockin, marker='o', linestyle='-')
+plt.xlabel('time Step')
+plt.ylabel('Lock-in')
+plt.title('Lock-in vs time')
+plt.grid(True)
+plt.savefig(f"{name_without_ext}lockin_vs_time.png")
 
+
+
+
+plt.figure()
+plt.plot(t, cap1, marker='o', linestyle='-')
+plt.xlabel('Time Step')
+plt.ylabel('Capacitance 1')
+plt.title('Capacitance 1 over Time')       
+plt.grid(True)
+plt.savefig(f"{name_without_ext}_cap1_vs_time.png")
+
+plt.figure()
+plt.plot(cap1,lockin , marker='o', linestyle='-')
+plt.xlabel('cap')
+plt.ylabel('lockin')
+plt.title('lockin over cap')       
+plt.grid(True)
+plt.savefig(f"{name_without_ext}_lockin_vs_cap.png")
 
 plt.figure()
 plt.plot(x_mid, slopes, marker='o', linestyle='-')
@@ -57,6 +82,6 @@ plt.xlabel("Index (between two adjacent points)")
 plt.ylabel("Slope (dy/dx)")
 plt.title("Adjacent-point Slopes")
 plt.grid(True)
-plt.savefig(f"{name_without_ext}_slope(orignal)_vs_cap.png")
+plt.savefig(f"{name_without_ext}_slope(no noise)_vs_cap.png")
 
 plt.show()
