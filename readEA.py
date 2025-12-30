@@ -8,7 +8,7 @@ lockin=[]
 cap1=[]
 t=[]
 i = 0
-filename = '20251121(3) -y 1000 per move(-1V).txt'
+filename = "20251219_170231_lock-in log.txt"
 
 with open(filename, 'r') as file:
     for line in file:
