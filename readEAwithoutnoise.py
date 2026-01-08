@@ -10,7 +10,7 @@ cap1=[]
 step = []   
 t=[]
 i = 0
-filename = '20251230_121515_lock-in log.txt'
+filename = '20260108_115724_lock-in log.txt'
 
 with open(filename, 'r') as file:
     for line in file:
