@@ -1,0 +1,4 @@
+2/11/2026 3:44:53 PM,Lock-in:1.284E-10,Capacitance 1:0.61419     ,Step count:0
+2/11/2026 3:44:58 PM,Lock-in:1.494E-10,Capacitance 1:0.6142      ,Step count:20
+2/11/2026 3:45:03 PM,Lock-in:1.499E-10,Capacitance 1:0.6143      ,Step count:40
+2/11/2026 3:45:08 PM,Lock-in:1.598E-10,Capacitance 1:0.6143      ,Step count:60
