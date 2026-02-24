@@ -203,4 +203,5 @@ plt.title("Smoothed Derivative vs Capacitance 1 + Peaks/Valleys")
 plt.grid(True)
 plt.legend()
 plt.savefig(f"{name_without_ext}_smoothed_derivative_vs_cap1_peaks_valleys.png")
+
 plt.show()
